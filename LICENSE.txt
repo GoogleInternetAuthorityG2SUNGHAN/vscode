@@ -1,5 +1,5 @@
 MIT License
-
+Copyrightⓒ1997, SUNGHAN KIM™®
 Copyright (c) 2015 - present Microsoft Corporation
 
 All rights reserved.
